@@ -1,6 +1,24 @@
-Dax Sword and Luke Dembosky
+Dax Sword, Luke Dembosky
 
-commit 63b2294a87eb3d5fab69dae566b9c4b2613a55d2
+commit cc15bdcdd04fe7f9dfb132c450325ee7846c07aa
+Author: Talwaa <daxwsword@gmail.com>
+Date:   Thu Oct 1 14:58:17 2026 -0600
+
+    Made cat bigger, moved it a little, changed colors again
+
+commit 99cda1f76d8ffa58d6ae3fd3e9a543ab7b9c40a2
+Author: Luke Dembosky <lukecircles@gmail.com>
+Date:   Thu Oct 1 14:52:10 2026 -0600
+
+    changed what cat said
+
+commit 82db6bd115868d8576ce595a6b56d5dbbf2d7597
+Author: Talwaa <daxwsword@gmail.com>
+Date:   Thu Oct 1 14:43:08 2026 -0600
+
+    adding gitlog just in case
+
+commit 64b2294a87eb3d5fab69dae566b9c4b2613a55d2
 Author: Talwaa <daxwsword@gmail.com>
 Date:   Thu Oct 1 14:34:48 2026 -0600
 
