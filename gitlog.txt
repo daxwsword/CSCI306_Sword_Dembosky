@@ -1,0 +1,19 @@
+Dax Sword and Luke Dembosky
+
+commit 63b2294a87eb3d5fab69dae566b9c4b2613a55d2
+Author: Talwaa <daxwsword@gmail.com>
+Date:   Thu Oct 1 14:34:48 2026 -0600
+
+    Changed cat to red, moved eyes and mouth a bit. Also deleted duplicate files, hopefully that doesn't break anything
+
+commit a1fa492c1c4bc747a6c65dc49070cc47f7f298f3
+Author: Luke Dembosky <lukecircles@gmail.com>
+Date:   Thu Oct 1 14:11:56 2026 -0600
+
+    changed colors and size of head
+
+commit a9b801f75e0efed0b025604b1ef39ff244c24261
+Author: Talwaa <daxwsword@gmail.com>
+Date:   Wed Sep 30 12:10:52 2026 -0600
+
+    Initial commit
